@@ -7,7 +7,6 @@ import org.openqa.selenium.By;
 public class TestSelenium {
     public static void main(String[] args){
         String var;
-        var = "Fisk";
         DataHolder data = new DataHolder();
 
         System.setProperty("webdriver.chrome.driver", "D:\\Selenium\\chromedriver.exe");
